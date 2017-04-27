@@ -4,11 +4,11 @@
 
  # 启动项目
 
- # npm install  下载依赖
+ // npm install  下载依赖
 
- # npm run mock  
+ // npm run mock  
 
- # npm run dev
+ // npm run dev
 
  //使用vuex实现多组件之间数据通信，
    
